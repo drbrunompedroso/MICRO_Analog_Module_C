@@ -1,0 +1,13 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# default configuration
+CND_ARTIFACT_DIR_default=dist/default/production
+CND_ARTIFACT_NAME_default=Reading_AN0_DIG.X.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/Reading_AN0_DIG.X.production.hex
+CND_PACKAGE_DIR_default=${CND_DISTDIR}/default/package
+CND_PACKAGE_NAME_default=readingan0dig.x.tar
+CND_PACKAGE_PATH_default=${CND_DISTDIR}/default/package/readingan0dig.x.tar
